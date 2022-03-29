@@ -6,6 +6,8 @@ from ship import Ship
 from bullet import Bullet
 
 class AlienInvasion:
+    #TODO
+    #Bullet fix draw
     """Overall class to manage game assets and behavior."""
     def __init__(self):
         """Initialize the game, and create game resources."""
